@@ -81,9 +81,6 @@
 
 @media screen and (max-width: 550px) {
 
-    img {
-        margin-left: 50px;
-    }
 
     header {
         display: flex;
