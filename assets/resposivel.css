@@ -63,7 +63,7 @@
     }
     
     .ranking-2 {
-        height: 10vh;
+        min-height: 60vh;
         width: 100%;
     }
 
@@ -110,7 +110,7 @@
     }
     
     .ranking-2 {
-        height: 10vh;
+        min-height: 60vh;
         width: 100%;
     }
 
@@ -121,7 +121,7 @@
 
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 400px) {
 
     header {
         display: flex;
@@ -151,7 +151,7 @@
     }
     
     .ranking-2 {
-        height: 10vh;
+        height: 50vh;
         width: 100%;
     }
 
